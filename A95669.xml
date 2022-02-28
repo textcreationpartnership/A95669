@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Testimony against John Fenwick, concerning his proceeding about New-Cesaria or New-Jersey in the province of America.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95669</idno>
+            <idno type="STC">Wing T804</idno>
+            <idno type="STC">ESTC R184971</idno>
+            <idno type="EEBO-CITATION">45578466</idno>
+            <idno type="OCLC">ocm 45578466</idno>
+            <idno type="VID">172380</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95669)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172380)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2628:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Testimony against John Fenwick, concerning his proceeding about New-Cesaria or New-Jersey in the province of America.</title>
+                  <author>Fenwick, John, 1618-1683. Letter of condemnation sent to Friends, upon their testifying against his proceedings.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: London the 6th day of the 5th month commonly called July Anno Domini, 1675. [brace] From the people of God, called Quakers, in London.</note>
+                  <note>Includes John Fenwick's Letter of Condemnation sent to Friends, upon their testifying against his proceedings.</note>
+                  <note>Reproduction of original in the Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fenwick, John, 1618-1683.</term>
+               <term>Society of Friends --  Discipline.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="statement">
+            <pb facs="tcp:172380:1"/>
+            <head>A Teſtimony againſt JOHN, FENWICK, concerning his
+Proceeding about NEW-CESARIA or NEW-JERSEY in the
+Province of AMERICA.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>WHoever thou art that read<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt this following Paper of <hi>John Fenwick,</hi> mayſt underſtand, that he
+hath unadviſedly, and without the true Fear of God, projected and undertaken great
+Worldly Matters and Deſigns (in Part of <hi>America,</hi> at a Place called New-Caeſaria or <hi>New Jerſey,</hi>
+without Clear, Juſt, Honeſt Ground or Foundation (eſpecially, until that Tract of Land were amongſt the
+Proprietors divided, and purchaſed of the <hi>Indians</hi>) either as a Man, or as a <hi>Chriſtian:</hi> And by his printed
+Paper bearing date the <hi>8th</hi> of the <hi>1ſt</hi> Month, 1674. did draw forth the Minds of many, moſt of which, like
+himſelf, longed for outward Eaſe and Plenty, and <hi>graſped at outward Honour and Riches, and overlooked
+the True Honour which is of God and Godlineſs,</hi> through the deceivable Working of the Enemy in him and
+them, &amp;c. whereby, as he himſelf ſaith, <hi>The Name of God hath been blaſphemed, and his Spirit grieved.</hi> Now he
+being reputed or called a <hi>Quaker,</hi> we in Conſcience to God, and to clear the Truth and our ſelves, and in Good-Will
+to others, that none might be carried away with Airy Conceptions, did in a Godly Jealouſie bear Wit<g ref="char:EOLhyphen"/>neſs
+againſt his Undertakings and Proceedings, as inconſiſtent with the <hi>Truth</hi> and <hi>Chriſtianity:</hi> And after he
+came to ſome Sight and Senſe of the ſame, he wrote this following Paper with his own Hand, and ſent it to
+us as a Teſtimony againſt himſelf and Proceedings, which we expected he would not only confeſs, but alſo for<g ref="char:EOLhyphen"/>ſake,
+and ceaſe farther to proſecute thoſe Things, which brought forth ſuch bad Effects mentioned in the
+ſaid Paper; But inſtead thereof he reſolutely perſeveres in the ſame, the Conſequence whereof, we fear,
+will prove deſtructive to himſelf and Followers.</p>
+            <p>Now becauſe it's bruited and famed abroad, that we as a People, have Adviſed, Councelled and Approved
+of the Manner of his Undertakings, we for the <hi>Information</hi> of all People, and Clearing of the Truth and our
+ſelves, do hereby ſignifie; we have no Part nor Lot in theſe his Proceedings; neither did we in particular, or as
+a People, ever Approve, Countenance or Encourage the ſame, but judged the Iſſue would prove Evil and
+Confuſed, like as the Beginning: So to manifeſt and approve our ſelves in Deed and in Truth what we pro<g ref="char:EOLhyphen"/>feſs
+in Words, and true Subjects to the Royal Law, <hi>Doing to others</hi> (though <hi>Heathen) as we would have others do
+to us;</hi> and Diſowning, Judging, and Condemning <hi>Deceit, Hypocriſie</hi> and <hi>Evil-Doing</hi> among any pretending to
+be one with us, as among others: And to clear the Truth and our ſelves, we make this publick, and not to
+wrong any Man's particular Intereſt or Propriety; but that every Man's Building may ſtand upon his own
+Foundation, and every Project and Device be fathered upon its own Inventor.</p>
+            <closer>
+               <dateline>
+                  <hi>London</hi> 
+                  <date>the 6th Day of the 5th Moneth
+comm<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nly called July <hi>Anno Domini,</hi> 1675.</date>
+               </dateline>
+From the People of God, called <hi>Quakers,</hi>
+in <hi>London.</hi>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>JOHN FENWICK's Letter of Condemnation ſent to FRIENDS, upon
+their Teſtifying Against his Proceedings.</head>
+            <opener>
+               <salute>My Dear Friends,</salute>
+            </opener>
+            <p>OUr God is a Conſuming Fire of all that is Contrary to him; and they, and every one that names
+his ſacred Name, muſt depart from Iniquity, and give Honour, Glory, and Praiſe and Thanks
+unto him for evermore.</p>
+            <p>O! Wo is me; it is I that have Sinned Againſt Him: For, his ſacred Name hath for a certain been
+Blaſphemed through me, his Spirit grieved in me, and in you his People alſo through me; having not ſtood
+ſtedfaſt in the Faith of our Lord Jeſus Chriſt; but have conſented to, and gone along with the Thief and
+Robber, the Devil, that Enemy to God and Man, who never ceaſeth labouring to rob God of his Honour,
+and ſteals away the Soul of Men from the Lord and his True Peace, as he hath done by my poor Soul:
+Finding it careleſs, and off from its Watch, and in the multitude of Worldly Buſineſs, hurrying it away
+from the precious Faith of God's choſen Seed, Chriſt Jeſus our Lord, in which it ſhould have been found figh<g ref="char:EOLhyphen"/>ting
+and laying hold of Eternal Life; So in his Subtilty he hath overtaken me, ſurpriſed me, and by hi<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+Evil Counſel made me to graſp at Outward Honours and Riches and therein to overlook the True Honour;
+which is of God and Godlineſs, which is Riches indeed, which indeed my Soul thirſts after: But the E<g ref="char:EOLhyphen"/>nemy
+blinded my Eyes, and deceived me, by thinking, that a Deſire only of Knowing the Lord, and of
+Serving the Lord, and of deſiring Upright and Honeſt Things, and only in aiming to effect them, in the obetai<g ref="char:EOLhyphen"/>ning
+the Outward Honour and Riches, wherewith he then alured me, and drew me into his Snares, would be
+a ſufficient Ground to engage not only all my outward Parts, Wiſdom and Knowledge to bring about my
+Deſigns therein; but alſo in the Defence thereof, not only to Strive with Men therein, but Fight Againſt
+even God, his Truth and People, if they interpoſed therein. And thus, together with many other his
+Wiles, Subtilties and cunning Craftineſs, wherewith he lies in wait to deceive the Simple in Heart, hath he
+deceived my Soul, in thrawled, wounded and robbed my Soul of its Peace and Reſt; this has been, and ſtill
+is the Grief, Sorrow and Burden of my Soul: And had not the Lord God of our Mercies beheld me in Pit<g ref="char:EOLhyphen"/>ty,
+and for his own Name's ſake ſhewed me the Evil of my Wayes, and led me by the Hand of his Love,
+ſhed abroad in your Hearts, to ſeek how to bring me back to his Fold; and how to help and Comfort my
+Soul, and to lift my Feet out of the Mire and Clay, my Soul had certainly periſhed, and become as <hi>Sodom,</hi>
+and like unto <hi>Gomorrah:</hi> All Honour, Glory, Praiſes and Thanks be given unto our God for evermore;
+and let my-Soul forever Praiſe his holy Name. For, I can ſay, in the Sence of the tender Love and rich
+Mercies of the Lord our God, O the Deepneſs of the Riches both of the Wiſdom and Knowledge of God!
+How incomprehenſible are his Judgments, and his Wayes unſearchable, and paſt finding out! To him
+be Praiſes and Dominion forever and forever: To whom I look, and from whom I expect Sal<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation alone,
+and that for his own Name's ſake. And my Soul thirſts after, and dearly longs to enjoy his Peace, with the
+Unity of you his People in all my future Undertakings.</p>
+            <closer>
+               <dateline>This given by his Own Hand to Friends, in
+<date>the 3d Moneth, called May, 1675.</date>
+               </dateline>
+               <signed>John Fenwick.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
